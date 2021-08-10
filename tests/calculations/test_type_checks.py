@@ -1,4 +1,3 @@
-import pytest
 from calculations.type_checks import is_integer
 
 
