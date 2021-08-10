@@ -1,4 +1,4 @@
-from calculations.type_checks import is_integer
+from calculations.type_checks import *
 
 
 def test_is_integer():
