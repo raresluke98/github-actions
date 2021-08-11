@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.7 as github-actions
 
 # RUN pip install pytest
 
