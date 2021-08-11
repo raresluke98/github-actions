@@ -20,4 +20,4 @@ RUN pip install --upgrade pip setuptools wheel \
 WORKDIR /github-actions
 
 CMD ["python", "-m", "pytest"]
-CMD ["sleep", "infinity"]
+# CMD ["sleep", "infinity"]
