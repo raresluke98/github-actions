@@ -49,4 +49,4 @@ jobs:
 #      run: |
 #        python -m pytest
     - name: Create docker container and test code
-      run: docker-compose up --build
+      run: docker-compose up --build --abort-on-container-exit
