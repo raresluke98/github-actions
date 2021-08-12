@@ -1,0 +1,5 @@
+#name: 'pytest-container'
+#description: 'Build docker container, copy repo and run tests'
+#runs:
+#  using: 'docker'
+#  image: 'Dockefile'
