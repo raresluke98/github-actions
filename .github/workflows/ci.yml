@@ -49,4 +49,4 @@ jobs:
 #      run: |
 #        python -m pytest
     - name: Create docker container and test code
-      run: docker-compose up -d --build
+      run: docker-compose up --build
